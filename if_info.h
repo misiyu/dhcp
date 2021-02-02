@@ -1,3 +1,4 @@
+// create by weiguohua
 #ifndef _IF_INFO_
 #define _IF_INFO_
 

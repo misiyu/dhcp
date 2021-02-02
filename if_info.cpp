@@ -1,3 +1,4 @@
+// create by weiguohua
 #include "if_info.h"
 
 If_info::If_info(){
